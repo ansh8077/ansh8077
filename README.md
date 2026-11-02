@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m an IT undergraduate exploring how networks and cloud systems work—and how to secure them. I’ve worked with Nmap for basic network scanning, Wireshark for traffic analysis, and AWS EC2 and S3 for cloud projects. I’m currently looking to grow through cybersecurity or IT internship opportunities.
+I’m an IT undergraduate exploring how networks and cloud systems work—and how to secure them. I’ve worked with Nmap for basic network scanning, Wireshark for traffic analysis, and AWS EC2 and S3 for cloud projects and learnig SEIM (Splunk) for log analysis. I’m currently looking to grow through cybersecurity or IT internship opportunities.
 
 ## Skills
 
